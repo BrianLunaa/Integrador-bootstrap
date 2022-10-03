@@ -1,5 +1,3 @@
-/* MENU DE NAVEGACIÓN */
-
 .navbar{
 background-color: #353a40;
 }
@@ -7,7 +5,6 @@ background-color: #353a40;
 max-width: 120px;
 }
 
-/* CAROUSEL */
 .carousel-inner:after {
   content:"";
   position:absolute;
@@ -31,8 +28,6 @@ max-width: 120px;
   height: 100%;
 } 
 
-/* CONFERENCIA */
-
 .conferencia .container {
   position: absolute;  
   min-height: 80vh;
@@ -47,8 +42,6 @@ max-width: 120px;
   margin-bottom: 8rem;
 }
 
-/* SECCION LUGAR */
-
 .lugar img {
   width: 100%;
   height: 100%;
@@ -59,7 +52,6 @@ max-width: 120px;
   border-left: 1px solid #fff;
 }
 
-/* SECCION FORMULARIO */
 .formulario .punteado{
   border-bottom: 1px dotted #000;
 }
@@ -76,10 +68,8 @@ text-decoration: none;
 border-radius: 5px;
 color: white;
 text-align: center;
-
 }
 
-/* PIE DE PAGINA  */
 footer{
 background-color: #1e4f6d;
 }
